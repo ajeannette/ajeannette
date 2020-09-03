@@ -2,7 +2,7 @@
 
 I'm the Digital Humanities and Learning Coordinator for SUNY Geneseo's Center for Digital Learning, and an aspirational developer! My previous work in open educational resources has inspired me to work in ways that democratize knowledge.
 
-![Everyone can code](images/code.jpg)
+![Everyone can code](../images/code.jpg)
 
 ## Core Values
 
